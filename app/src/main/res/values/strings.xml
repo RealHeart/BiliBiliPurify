@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BiliBili Purify</string>
+    <string name="xposed_desc">By:ZhenXin Blog:zhenxin.xyz</string>
+
+    <!-- Preference Titles -->
+    <string name="info_header">Info</string>
+    <string name="settings_header">Settings</string>
+    <string name="about_header">About</string>
+
+    <!-- Info Preferences -->
+    <string name="status_title">Status</string>
+    <string name="active_not_title">No Active</string>
+    <string name="active_taichi_title">Active(Tai Chi)</string>
+    <string name="active_edxp_title">Active(EDXposed)</string>
+    <string name="active_xp_title">Active(Xposed)</string>
+
+    <string name="biliver_title">BiliBili Version</string>
+    <string name="biliver_unknown_title">Unknown</string>
+
+    <!-- Settings Preferences -->
+    <string name="hide_show_title">Hide Show Tab</string>
+
+    <!-- About Preferences -->
+    <string name="version">Version</string>
+    <string name="github_title" translatable="false">GitHub</string>
+</resources>

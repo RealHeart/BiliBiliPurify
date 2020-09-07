@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">哔哩净化</string>
+    <string name="xposed_desc">By:真心 博客:zhenxin.xyz</string>
+
+    <!-- Preference Titles -->
+    <string name="info_header">信息</string>
+    <string name="settings_header">设置</string>
+    <string name="about_header">关于</string>
+
+    <!-- Info Preferences -->
+    <string name="status_title">状态</string>
+    <string name="active_not_title">未激活</string>
+    <string name="active_taichi_title">已激活(太极)</string>
+    <string name="active_edxp_title">已激活(EDXposed)</string>
+    <string name="active_xp_title">已激活(Xposed)</string>
+
+    <string name="biliver_unknown_title">未知</string>
+    <string name="biliver_title">B站版本</string>
+
+    <!-- Settings Preferences -->
+    <string name="hide_show_title">隐藏底部会员购</string>
+
+    <!-- About Preferences -->
+    <string name="version">版本</string>
+</resources>
